@@ -1,0 +1,16 @@
+# Project Structure:
+# /Federated-Model
+#   ├── requirements.txt
+#   ├── server.py
+#   ├── client.py
+#   ├── model.py
+#   ├── data_loader.py
+#   └── utils.py
+
+# requirements.txt
+flwr
+torch
+torchvision
+numpy
+scikit-learn
+matplotlib
